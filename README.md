@@ -10,7 +10,7 @@ DEPI Graduation project "Laptop price prediction" at Microsoft Data Engineering,
 - Web Application: Flask
 - Visualization: Power BI
 
-# Data Pipeline
+# Data Pipeline:
 - Web Scraping:
 Use BeautifulSoup and Selenium to extract data from online retailers like Noon, 2B, Vodafone, Aman, and Jumia.
 Extract relevant features like brand, processor, RAM, storage, GPU, and price.
